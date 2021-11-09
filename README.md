@@ -17,7 +17,7 @@ You will create a simple tool that converts temperatures from one kind of temper
 ## Before you start
 
 ### Clone the Exercise 4 repository
-
+    
 Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 4 repository (e.g., `exercise-4-htenkanen`) in the instance using Git as we saw in [**Lesson 2**](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
 
 ### Problem 0 - Mid-term course feedback requested
@@ -33,3 +33,4 @@ There are three problems in this week's exercise.
 1. [Problem 1 - Simple temperature calculator (3 points)](Exercise-4-problem-1.ipynb)
 2. [Problem 2 - Temperature classifier (3 points)](Exercise-4-problem-2.ipynb)
 3. [Problem 3 - Applying the classifier (4 points)](Exercise-4-problem-3.ipynb)
+
